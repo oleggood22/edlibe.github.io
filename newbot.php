@@ -5,7 +5,7 @@ if (!isset($_REQUEST)) {
 }
 
 //Строка для подтверждения адреса сервера из настроек Callback API
-$confirmationToken = '004eec27';
+$confirmationToken = '5f7edac0';
 
 //Ключ доступа сообщества
 $token = '4420ebe6812e560bba996629d935bc613034281c2a95753980b9bc0de69c5b7e254f3a7938cea33631ff8';
